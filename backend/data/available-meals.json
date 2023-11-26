@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Sushi1",
+    "price": "8.99",
+    "description": "A fresh & delicious Sushi ready to be consume.",
+    "image": "images/Sushi1.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Sushi2",
+    "price": "12.99",
+    "description": "A delicious Sushi.",
+    "image": "images/Sushi2.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Sushi3",
+    "price": "7.99",
+    "description": "A fresh & delicious Sushi ready to be consume.",
+    "image": "images/Sushi3.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Sushi4",
+    "price": "10.99",
+    "description": "A fresh & delicious Sushi ready to be consume.",
+    "image": "images/Sushi4.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Sushi5",
+    "price": "9.99",
+    "description": "A fersh & delicious Sushi ready to be consume.",
+    "image": "images/Sushi5.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Sushi6",
+    "price": "10.99",
+    "description": "A fresh & delicious Sushi ready to be consume.",
+    "image": "images/Sushi6.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Sushi7",
+    "price": "17.99",
+    "description": "A fresh & delicious Sushi ready to be consume.",
+    "image": "images/Sushi7.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Sushi8",
+    "price": "15.99",
+    "description": "A delicious Sushi ready to be consume.",
+    "image": "images/Sushi8.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Food1",
+    "price": "13.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/Food1.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Food2",
+    "price": "11.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/Food3.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Food2",
+    "price": "19.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/Food4.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Food3",
+    "price": "8.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/Food5.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Food4",
+    "price": "12.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/Food6.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Food5",
+    "price": "9.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/Food7.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Food6",
+    "price": "5.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/Food8.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Food7",
+    "price": "14.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/Food9.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Food8",
+    "price": "13.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Food9",
+    "price": "11.99",
+    "description": "A mouth watering food waiting to be devour.",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Cheesecake",
+    "price": "6.99",
+    "description": "A lemon cheesecake",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Burritos",
+    "price": "8.99",
+    "description": "A tradtional latino cusine",
+    "image": "images/falafel-wrap.jpg"
+  }
+]
